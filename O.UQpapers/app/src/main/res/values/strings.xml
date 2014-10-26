@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">O.U Qpapers</string>
+    <string name="intro">OSMANIA UNIVERSITY</string>
+    <string name="intro2">Question papers</string>
+    <string name="btn1">submit</string>
+    <string name="qsn"><font size="20">Select Branch-</font></string>
+    <string name="cse"><font size="20">A. CSE</font></string>
+    <string name="ece"><font size="20">C. ECE</font></string>
+    <string name="eee"><font size="20">B. EEE</font></string>
+    <string name="mech"><font size="20">D. MECH</font></string>
+    <string name="action_settings">Settings</string>
+
+</resources>
